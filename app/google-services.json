@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649770034786",
+    "project_id": "projecto2024julianortega",
+    "storage_bucket": "projecto2024julianortega.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649770034786:android:26db0d497d54edd792933b",
+        "android_client_info": {
+          "package_name": "com.example.projectojulianortega"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi9LRwOFrMKdiT4WuH9bUmS-oMC5mOkKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
